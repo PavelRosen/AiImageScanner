@@ -90,7 +90,7 @@ This is the coolest option. It's completely free and private. It just requires a
 **Step 1: Install Ollama**
 Ollama is the engine that runs powerful AI models on your own computer.
 
--   Go to [**https://ollama.com**](https://ollama.com) and download the installer for your OS (Windows, Linux, macOS).
+-   Go to [**https://ollama.com**](https://ollama.com) and download the installer for your OS (Windows, Linux).
 -   Run the installer. Ollama will now run quietly in the background.
 
 **Step 2: Get a "Vision" Model**
